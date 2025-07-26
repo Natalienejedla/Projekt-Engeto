@@ -13,13 +13,13 @@ Tento projekt vznikl v rámci kurzu datové analýzy. Jeho cílem bylo připravi
 ## Struktura projektu
 Najdete zde celkem sedm SQL skriptů. Dva se týkají vytváření tabulek, zbylých pět reprezentuje odpověď vždy na jednu výzkumnou otázku.
 - pruvodni_listina.md – zde naleznete interpretaci veškerých výpočtů a reflexi vlastní práce.
-- tvorba_tabulky_1 – obsahuje cestu k vytvoření tabulky, ve které najdeme informace o mzdách, cenách a HDP
-- tvorba_tabulky_2 – skript pro sestavení tabulky s daty o HDP, GINI koeficientu a populaci evropských států.
 - otazka_1
 - otazka_2
 - otazka_3
 - otazka_4
 - otazka_5
+- tvorba_tabulky_1 – obsahuje cestu k vytvoření tabulky, ve které najdeme informace o mzdách, cenách a HDP.
+- tvorba_tabulky_2 – skript pro sestavení tabulky s daty o HDP, GINI koeficientu a populaci evropských států.
 
 ## Hlavní zjištění
 - V průběhu let mzdy rostou ve všech odvětvích
